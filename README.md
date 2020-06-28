@@ -4,6 +4,7 @@ MusiCodes3D can generate 3D-printable codes, which you can scan with your Spotif
 The codes link directly to your favorite song, album, playlist, etc. on Spotify.
 
 Give it a try:
+
 <img width="60%" alt="portfolio_view" src="example.jpg">
 
 ## How to create a 3D-model
