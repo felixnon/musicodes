@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 100 100"
+   height="100mm"
+   width="100mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="1912"
+     inkscape:window-height="1027"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer2"
+     inkscape:document-units="mm"
+     inkscape:cy="449.49"
+     inkscape:cx="459.61671"
+     inkscape:zoom="0.7"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-2.355426,-1.5536148)"
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ebene 2">
+    <circle
+       style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path984"
+       cx="90.871643"
+       cy="90.069832"
+       r="88.466217" />
+  </g>
+  <g
+     transform="translate(-17.877648,-34.084766)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
+    <path
+       sodipodi:nodetypes="sccscccccsccccccccccss"
+       d="m 141.57832,68.463969 c -0.47681,0.0069 -1.08777,0.03264 -1.87947,0.07028 -20.69325,1.294228 -45.483645,7.086533 -60.871587,13.114535 0,0 -0.92825,0.299612 -0.92825,1.215338 0,18.505448 -0.441317,51.925678 -0.441317,65.634238 -0.24261,0 -1.552297,-0.23529 -2.910417,-0.52296 -13.471567,-1.50021 -20.447748,3.71645 -23.297284,13.04313 -1.08549,9.34924 4.14129,14.77088 12.686564,16.40055 v 5.2e-4 c 2.375472,0.42775 6.994102,0.16684 9.387538,-0.55758 7.38282,-2.23456 12.374153,-6.62058 12.707752,-11.40396 0,-21.60162 1.127581,-40.88515 1.127581,-65.725703 4.983089,-2.91794 29.94571,-8.190744 47.71336,-8.559687 0,14.92261 -0.11421,31.20839 -0.11421,45.05824 -0.16275,0.16274 -1.22922,0.0527 -2.36988,-0.24443 -10.52395,-2.20981 -19.35884,2.49921 -23.1345,9.95443 -5.63119,16.49308 13.2646,22.87755 24.31324,17.58601 4.74672,-2.39041 9.84064,-7.42024 10.08517,-11.65562 l 0.0393,-0.37414 c 0,-26.30435 -0.19224,-55.769074 -0.19224,-82.403754 -0.26847,-0.501629 -0.49089,-0.650166 -1.92133,-0.62942 z"
+       style="fill:#916f6f;stroke-width:0.352777"
+       id="path887" />
+  </g>
+</svg>
